@@ -10,7 +10,7 @@
 ![alt text](https://i.imgur.com/nIztAdd.png)
 
 ## Logs SQL Injection block by Cloudflare WAF
-![alt text](https://i.imgur.com/j7bpAOw.png)
+![alt text](https://i.imgur.com/CR402a6.png)
 
 ## Block IP from Russia
 ![alt text](https://i.imgur.com/5yg1VL5.png)
